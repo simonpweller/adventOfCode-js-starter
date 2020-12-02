@@ -1,0 +1,9 @@
+{
+  "name": "js-advent",
+  "engines": {
+    "node": ">=13.2.0"
+  },
+  "version": "1.0.0",
+  "license": "ISC",
+  "type": "module"
+}
